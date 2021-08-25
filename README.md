@@ -20,5 +20,14 @@ An application that the user can use to generate a random password based on crit
 3. After all options are selected the password is generated and displayed in the box on screen.
 
 ## Images of Application
-Initial prompt
+Initial Length Prompt
+<img src="pass-length.png">
 
+Password Criteria Prompt
+<img src="pass-criteria.png">
+
+Password Summary Alert
+<img src="criteria-summary.png">
+
+Final Displayed Password
+<img src="final-password.png">
