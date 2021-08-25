@@ -20,4 +20,5 @@ An application that the user can use to generate a random password based on crit
 3. After all options are selected the password is generated and displayed in the box on screen.
 
 ## Images of Application
+Initial prompt
 
