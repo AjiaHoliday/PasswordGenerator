@@ -21,13 +21,13 @@ An application that the user can use to generate a random password based on crit
 
 ## Images of Application
 Initial Length Prompt
-(images/pass-length.png)
+![Password Length](images/pass-length.png)
 
 Password Criteria Prompt
-(images/pass-length.png)
+![Password Criteria](images/pass-criteria.png)
 
 Password Summary Alert
-(images/pass-length.png)
+![Password Summary](images/criteria-summary.png)
 
 Final Displayed Password
-(images/pass-length.png)
+![Final Password](images/final-password.png)
